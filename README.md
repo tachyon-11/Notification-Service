@@ -10,7 +10,8 @@
 - Track all the messages, users and their details
 
 This is the basic overview of service :-
-![General Flow](main.png "General FLow")
+
+![General Flow](main.png "General FLow" width="600" height="300")
 
 ## Tech
 
