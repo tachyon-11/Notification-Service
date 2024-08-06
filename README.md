@@ -11,7 +11,7 @@
 
 This is the basic overview of service :-
 
-![General Flow](main.png "General FLow" width="600" height="300")
+![General Flow](main.png)
 
 ## Tech
 
